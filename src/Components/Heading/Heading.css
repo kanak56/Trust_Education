@@ -1,0 +1,11 @@
+.nav{
+    font-size: 25px;
+}
+
+.navlink{
+    color: rgb(207, 178, 178);
+    text-decoration: none;
+    padding: 5px;
+    margin: 1px;
+    margin-left: 20px;
+}

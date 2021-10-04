@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "courseName": "C#",
+        "img": "https://files.betamax.raywenderlich.com/attachments/collections/161/a3b9ac0f-c565-41b1-97bd-d49a3705e204.png",
+        "description": "C# is a general-purpose, multi-paradigm programming language. C# encompasses static typing, strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines"
+    },
+    {
+        "id": 2,
+        "courseName": "Javascript",
+        "img": "https://i.ytimg.com/vi/jS4aFq5-91M/maxresdefault.jpg",
+        "description": "JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions. "
+    },
+    {
+        "id": 3,
+        "courseName": "Python",
+        "img": "https://sololearnuploads.azureedge.net/uploads/courses/1073.png",
+        "description": "Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code readability with its use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects."
+    },
+    {
+        "id": 4,
+        "courseName": "Web-Design",
+        "img": "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16075/0717_Brutalist_and_Minimalist_Web_Design_Lina_Social-cbd0996a3f2bef8b9b10b86e0c4fb9e5.png",
+        "description": "Web design encompasses many different skills and disciplines in the production and maintenance of websites. The different areas of web design include web graphic design; user interface design; authoring, including standardised code and proprietary software; user experience design; and search engine optimization."
+    },
+    {
+        "id": 5,
+        "courseName": "Basic HTML",
+        "img": "https://www.freecodecamp.org/news/content/images/2021/07/jackson-so-_t-l5FFH8VA-unsplash.jpg",
+        "description": "The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript."
+    },
+    {
+        "id": 6,
+        "courseName": "CSS",
+        "img": "https://i.ytimg.com/vi/1Rs2ND1ryYc/maxresdefault.jpg",
+        "description": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+    }
+]
