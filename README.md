@@ -1,4 +1,4 @@
-# This is Trust Eucation Institution Website
+# This is Trust Education Institution Website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
