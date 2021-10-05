@@ -1,8 +1,9 @@
 import React from 'react';
+import "./Branches.css";
 
 const Branches = () => {
     return (
-        <div>
+        <div className='brances'>
             <h1 style={{ fontFamily: 'Lobster', textDecoration: 'underline' }}>Bangladeshi Branches</h1>
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2,1fr)' }}>
                 <ul style={{ textAlign: 'left', fontSize: 20 }}>
